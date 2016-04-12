@@ -13,3 +13,8 @@ usage:
 or
 
 ./flv2hls -s (your flv file) -w (item number in one m3u8 file) -f (segment length) -m (max segment length)
+
+more detail could visit:
+
+ http://www.jamesli20000.com/wordpress/how-to-convert-a…ve-streammpeg2ts
+ 
