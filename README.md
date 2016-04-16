@@ -16,6 +16,6 @@ or
 
 more detail could visit:
 
- http://www.jamesli20000.com/wordpress/how-to-convert-a-live-http-flv-stream-into-a-http-live-streammpeg2ts/
+ http://www.jamesli20000.com/how-to-convert-a-live-http-flv-stream-into-a-http-live-streammpeg2ts/
  
  
