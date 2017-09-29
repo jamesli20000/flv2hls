@@ -18,5 +18,5 @@ more detail could visit:
 
 spscounter.c
 Could display how many sps,pps inside one flv file.
-g++ spscounter.c FlvDecoder.cpp flv_mpegts.c -o flv2hls
+g++ spscounter.c FlvDecoder.cpp  -o spscounter
  
